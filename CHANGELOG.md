@@ -2,6 +2,7 @@
 
 ## master
 [v6.0.3...master](https://github.com/deployphp/deployer/compare/v6.0.3...master)
+- Adds support for GroupTask in invoke() [#1364]
 
 
 
